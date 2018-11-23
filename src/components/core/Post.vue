@@ -3,7 +3,7 @@
       <div class="row">
         <div class="col-md-1">
           <router-link :to="thread_link">
-            <img style="height:70px; width:auto;" :src="thumbnail ? thumbnail : 'https://cdn.novusphere.io/static/atmos.svg'">
+            <img style="height:70px; width:auto;" :src="thumbnail ? thumbnail : 'https://www.rovegas.com/assets/img/new_logo.png'">
           </router-link>
         </div>
         <div class="col-md-11">
