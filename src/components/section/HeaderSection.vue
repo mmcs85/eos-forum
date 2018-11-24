@@ -4,7 +4,7 @@
       <ul class="list-inline mb-0" v-if="identity">
             <li class="list-inline-item">
               <router-link :to="'/'">
-                <img src="https://cdn.novusphere.io/static/atmos.svg" width="30" height="30" class="d-inline-block align-top" alt="">
+                <img src="https://www.rovegas.com/assets/img/new_logo.png" width="30" height="30" class="d-inline-block align-top" alt="">
               </router-link>
             </li>
             <li v-if="!identity.account" class="list-inline-item">
