@@ -23,7 +23,7 @@
               <div class="row">
                   <div class="col-12">
                       <div class="text-center">
-                        <img src="https://cdn.novusphere.io/static/atmos.svg" style="width: 12.5%">
+                        <img src="https://www.rovegas.com/assets/img/new_logo.png" style="width: 12.5%">
                         <img src="https://cdn.novusphere.io/static/eos2.svg" style="width: 12.5%">
                       </div>
                   </div>
